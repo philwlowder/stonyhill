@@ -1,0 +1,64 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<title>Ministers</title>
+<link rel="stylesheet" type="text/css" href="./css/global.css">
+<link rel="stylesheet" type="text/css" href="./css/member.css">
+
+</head>
+
+<body>
+
+<table id="members">
+
+
+Former Ministers
+of
+Stony Hill United Methodist Church
+
+<table>
+<tr><td>C.M. Gentry</td><td>1889-03</td></tr>
+<tr><td>J.C. Keever</td><td>1903-05</td></tr>
+<tr><td>W.S. Cheery</td><td>1905-06</td></tr>
+<tr><td>J.T. Stover</td><td>1907-09</td></tr>
+<tr><td>P.W. Tucker</td><td>1909-12</td></tr>
+<tr><td>J.W. Strider</td><td>1914-15</td></tr>
+<tr><td>H.F. Starr</td><td>1915-18</td></tr>
+<tr><td>G.A.B. Holderby</td><td>1919-20</td></tr>
+<tr><td>C.M. McKinny</td><td>1920-21</td></tr>
+<tr><td>J.O. Plyer</td><td>1921-22</td></tr>
+<tr><td>E.J. Poe</td><td>1922-23</td></tr>
+<tr><td>L.H. Giffith</td><td>1923-26</td></tr>
+<tr><td>A.H. Andrews</td><td>1926-28</td></tr>
+<tr><td>O.J. Jones</td><td>1928-30</td></tr>
+<tr><td>J.0. Banks</td><td>1930-33</td></tr>
+<tr><td>J.W. Combs</td><td>1933-34</td></tr>
+<tr><td>K.L. Bass</td><td>1934-37</td></tr>
+<tr><td>G.L. Wilkinson</td><td>1937-40</td></tr>
+<tr><td>E.A. Bingham</td><td>1941-43</td></tr>
+<tr><td>R.C. Kirk</td><td>1944</td></tr>
+<tr><td>N.C. Williams Jr.</td><td>1944-47</td></tr>
+<tr><td>J.M. Morgan</td><td>1947-49</td></tr>
+<tr><td>J.C. Freeman</td><td>1949-53</td></tr>
+<tr><td>Ellis P. Green</td><td>1953-55</td></tr>
+<tr><td>M.M. Armstrong</td><td>1956-57</td></tr>
+<tr><td>B.C. Adams</td><td>1957-59</td></tr>
+<tr><td>Gordon Bruce Nelson</td><td>1959-61</td></tr>
+<tr><td>James R. Faggart</td><td>1961-1970</td></tr>
+<tr><td>J. Hurley Thomas</td><td>1970-75</td></tr>
+<tr><td>Ellis L. Rouse Jr.</td><td>1975-80</td></tr>
+<tr><td>Harry Hawk</td><td>1980-83</td></tr>
+<tr><td>Ted Craddock</td><td>1983-88</td></tr>
+<tr><td>Paul Bell</td><td>1988-2000</td></tr>
+<tr><td>Gary Ferrell</td><td>2000-2002</td></tr>
+<tr><td>Leslie Wray	</td><td></td></tr>
+<tr><td>Mary Lautensleger</td><td></td></tr>
+</table>
+
+</body>
+</html>

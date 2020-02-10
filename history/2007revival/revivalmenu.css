@@ -1,0 +1,44 @@
+
+/*- Menu 3--------------------------- */
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+img {
+    border: none;
+}
+
+div.menu3 {
+	width: 200px;
+	margin: 5px;
+	border-style: solid solid none solid;
+	border-color: #BCD2E6;
+	border-size: 1px;
+	border-width: 1px;
+	}
+
+div.menu3 li a {
+	height: 32px;
+  	voice-family: "\"}\"";
+  	voice-family: inherit;
+  	height: 24px;
+	text-decoration: none;
+	}
+
+div.menu3 li a:link,
+
+div.menu3 li a:visited {
+	color: #852992;
+	display: block;
+	background:  url(menu3.gif);
+	padding: 8px 0 0 5px;
+	}
+
+div.menu3 li a:hover {
+	color: #627EB7;
+	background:  url(menu3.gif) 0 -32px;
+	padding: 8px 0 0 5px;
+	}

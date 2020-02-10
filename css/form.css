@@ -1,0 +1,101 @@
+
+label.error {
+	display: block;
+	color: red;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+/*-------------------------------------
+FORM CORE
+------------------------------------------*/
+
+
+form#contact fieldset {
+	padding: 10px 20px 20px 20px;
+	margin: 0;
+	border: 0 solid green;
+	background-color: #fff;
+	width: 100%;
+	text-align: left;
+	border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -moz-box-shadow: 0px 0px 10px #d3d3d3;
+	-webkit-box-shadow: 0px 2px 10px #d3d3d3;
+	box-shadow: 0px 0px 10px #d3d3d3;
+}
+
+form#contact input[type="text"],
+input[type="email"], textarea {
+	margin: 5px 0 10px 0;
+	padding: 6px;
+	width: 260px;
+	font-family: arial, sans-serif;
+	font-size: 16px;
+	border: 1px solid #ccc;
+    background: -webkit-gradient(linear, left top, left 15, from(#FFFFFF), color-stop(4%, #f4f4f4), to(#FFFFFF));
+    background: -moz-linear-gradient(top, #FFFFFF, #f4f4f4 1px, #FFFFFF 15px);
+}
+
+input[type=text]:focus, input[type=email]:focus, textarea:focus {
+box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+-webkit-box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+border: 1px solid rgba(81, 203, 238, 1);
+}
+
+
+form#contact textarea {
+	width: 500px;
+	height: 250px;
+	margin: 0;
+}
+
+form#contact label {
+	display: block;
+	font-size: 14px;
+	color: #358ACA;
+	margin-top: 10px;
+	font-weight: normal;
+}
+
+form#contact label.error {
+	width: 270px;
+	margin: 3px 0 0 0;
+	display: block;
+	color: #cf0101;
+	font-size: 14px;
+	text-align: right;
+}
+
+form#contact .placeholder {
+	color: #aaa;
+}
+
+form#contact .button {
+	display: inline-block;
+	margin: 15px 0 0 90px;
+	padding: 5px 15px 5px 15px;
+	background-color: #6CBCF0;
+	border: none;
+	color: #ffffff;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+}
+
+form#contact .button:hover {
+	background-color: #358ACA;
+	cursor: pointer;
+}
+
+form#contact .button:active {
+	margin-top: 16px;
+	background-color: #6CBCF0;
+	cursor: pointer;
+}
+
+.thanks {
+font-size: 18px;
+color: blue;
+}
