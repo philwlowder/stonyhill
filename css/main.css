@@ -110,33 +110,39 @@ nav ul li ul li a {
 
 @media only screen and (max-width: 800px) {
   .nav-mobile {
-      display: block
+    display: block
   }
+
   nav {
-      width: 100%;
-      padding: 50px 0 0
+    width: 100%;
+    padding: 50px 0 0
   }
+
   nav ul {
-      display: none
+    display: none
   }
+
   nav ul li {
-      float: none
+    float: none
   }
+
   nav ul li a {
-      padding: 15px;
-      line-height: 20px
+    padding: 15px;
+    line-height: 20px
   }
+
   nav ul li ul li a {
-      padding-left: 30px
+    padding-left: 30px
   }
+
   .nav-dropdown {
-      position: static
+    position: static
   }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 350px) {
   .nav-list {
-      display: block !important
+    display: block !important
   }
 }
 
